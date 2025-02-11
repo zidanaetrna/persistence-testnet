@@ -98,6 +98,11 @@ This project is open-source and free to use. Modify it as needed!
 
 ---
 
+## Feedback
+for feedback still not available yet and will be added soon!
+
+---
+
 ## Need Help?
 If you encounter any issues, feel free to ask for help. Happy coding! 🚀
 
